@@ -1,0 +1,8 @@
+{
+    // hi from Zero Development Team!
+    config: {
+        permissions: {
+            quotethat_command: "everyone",
+        },
+    }
+}
